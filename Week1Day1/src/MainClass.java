@@ -4,7 +4,7 @@ import javax.xml.bind.DatatypeConverter;
 
 public class MainClass {
 
-	public static void main(String[] args) throws Exception{
+	public static void main(String[] args){
 		
 		String ly = "4c6f6f6b2c0a496620796f7520686"
 				+ "1642c0a4f6e6520636f757273652c20"
@@ -16,7 +16,7 @@ public class MainClass {
 				+ "5206c6561726e2069740a4f72206a75"
 				+ "7374206c657420697420736c6970206"
 				+ "279206368656174696e67";
-		
+
 		System.out.println(new String(DatatypeConverter.parseHexBinary(ly)));
 	}
 
