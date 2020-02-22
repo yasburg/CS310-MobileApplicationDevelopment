@@ -13,7 +13,6 @@ public class MainClassPolymorphism {
 		Employee e2 =
 				new Manager(3, "manager2", "m2lastname", 30, "Sales");
 
-
 		e2.employeeMethod();
 		//By using superclass reference we can only access (Employee)
 		//the methods implemented in the superclass(Employee)
