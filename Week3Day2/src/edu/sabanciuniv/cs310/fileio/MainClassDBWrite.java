@@ -13,11 +13,11 @@ public class MainClassDBWrite {
 		{
 			Connection connection = DriverManager.getConnection("jdbc:mysql://127.0.0.1/cs310", "root", "1q2w3e4r");
 			System.out.println("connected!!");
-			
-			
+
+
 			//Learn SQL select,insert,update & delete queries
 			//PreparedStatement ps =  connection.prepareStatement("insert into Students (name,lastname) values ('Ahmet','Demirelli') ");
-			
+
 			PreparedStatement ps =  connection.prepareStatement("update Students set name='Mehmet' where id=3 ");
 			
 			System.out.println("Statement created");
