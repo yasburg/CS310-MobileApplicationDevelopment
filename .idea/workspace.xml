@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b522e1bf-d811-4eaf-832c-bbbc1bb97ce6" name="Default Changelist" comment="Adding the Assignment 1">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 1/YasinAydinCS310Homework1Q1" beforeDir="false" />
-    </list>
+    <list default="true" id="b522e1bf-d811-4eaf-832c-bbbc1bb97ce6" name="Default Changelist" comment="Adding the Assignment 1" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../Examples/Week1Day1/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -146,7 +143,7 @@
       <workItem from="1582330778191" duration="99000" />
       <workItem from="1582330933041" duration="71000" />
       <workItem from="1582400944794" duration="507000" />
-      <workItem from="1583788966543" duration="529000" />
+      <workItem from="1583788966543" duration="639000" />
     </task>
     <task id="LOCAL-00001" summary="Adding the Assignment 1">
       <created>1583789017374</created>
@@ -166,7 +163,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2926000" />
+    <option name="totallyTimeSpent" value="3036000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -180,7 +177,7 @@
   <component name="ToolWindowManager">
     <frame x="60" y="24" width="1400" height="784" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23432836" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23432836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -195,7 +192,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297546" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3297546" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3297546" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297546" />
