@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b522e1bf-d811-4eaf-832c-bbbc1bb97ce6" name="Default Changelist" comment="Adding the Assignment 1">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignment 1/Homework-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/Homework-1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignment 1/JPA CRUD Database Operations - Create, Retrieve, Update, and Delete.url" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/JPA CRUD Database Operations - Create, Retrieve, Update, and Delete.url" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignment 1/Java JDBC - SQL Insert, Select, Update, and Delete Examples.url" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/Java JDBC - SQL Insert, Select, Update, and Delete Examples.url" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignment 1/YasinAydinCS310Homework1Q1" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/YasinAydinCS310Homework1Q1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignment 1/YasinAydinCS310Homework1Q2/data/world.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/YasinAydinCS310Homework1Q2/data/world.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignment 1/YasinAydinCS310Homework1Q2/out/production/YasinAydinCS310Homework1Q2/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/YasinAydinCS310Homework1Q2/out/production/YasinAydinCS310Homework1Q2/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignment 1/YasinAydinCS310Homework1Q2/src/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/YasinAydinCS310Homework1Q2/src/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignment 1/YasinAydinCS310Homework1Q2/src/edu/sabanciuniv/cs310/homework1/main/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/YasinAydinCS310Homework1Q2/src/edu/sabanciuniv/cs310/homework1/main/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignment 1/YasinAydinCS310Homework1Q2/src/edu/sabanciuniv/cs310/homework1/model/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/YasinAydinCS310Homework1Q2/src/edu/sabanciuniv/cs310/homework1/model/Country.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignment 1/YasinAydinCS310Homework1Q2/src/edu/sabanciuniv/cs310/homework1/model/YasinJPAManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/YasinAydinCS310Homework1Q2/src/edu/sabanciuniv/cs310/homework1/model/YasinJPAManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignment 1/world.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/world.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 1/YasinAydinCS310Homework1Q1" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../Examples/Week1Day1/bin/" />
@@ -46,8 +35,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Week1Day1/src/MainClass.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -81,7 +70,7 @@
               <item name="WeeklyCodes" type="b2602c69:ProjectViewProjectNode" />
               <item name="WeeklyCodes" type="462c0819:PsiDirectoryNode" />
               <item name="Assignment 1" type="462c0819:PsiDirectoryNode" />
-              <item name="YasinAydinCS310Homework1Q2" type="462c0819:PsiDirectoryNode" />
+              <item name="YasinAydinCS310Homework1Q1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WeeklyCodes" type="b2602c69:ProjectViewProjectNode" />
@@ -157,7 +146,7 @@
       <workItem from="1582330778191" duration="99000" />
       <workItem from="1582330933041" duration="71000" />
       <workItem from="1582400944794" duration="507000" />
-      <workItem from="1583788966543" duration="280000" />
+      <workItem from="1583788966543" duration="529000" />
     </task>
     <task id="LOCAL-00001" summary="Adding the Assignment 1">
       <created>1583789017374</created>
@@ -166,11 +155,18 @@
       <option name="project" value="LOCAL" />
       <updated>1583789017374</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding the Assignment 1">
+      <created>1583789268642</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583789268642</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2677000" />
+    <option name="totallyTimeSpent" value="2926000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -184,7 +180,7 @@
   <component name="ToolWindowManager">
     <frame x="60" y="24" width="1400" height="784" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23432836" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23432836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -199,12 +195,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297546" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297546" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3297546" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297546" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" visible="true" weight="0.32515338" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.35582823" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -301,13 +297,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week1Day1/.classpath">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -315,6 +304,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
