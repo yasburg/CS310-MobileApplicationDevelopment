@@ -1,0 +1,25 @@
+JSON or REST web service 
+		The general name for web services that uses JSON format 		for exchanging data between server and client
+
+JAX-RS 
+		Tha Java API ( library ) that is used for creating JSON / REST web services
+ 
+JAX-RS ( JSON / REST ) Web Service Project
+
+	1-) Create New Dynamic Web Project
+	2-) On the 1st screen —> Configuration  —> Modify —> Select  —> Java version —> 1.8 and click OK
+	3-) On the 3rd Screen -> check the “Generate web.xml deployment descriptor” checkbox and click Finish
+	4-) Copy and paste following lines into web.xml before the last line ( </web-app> )
+
+	 <servlet-mapping>
+	   <servlet-name>javax.ws.rs.core.Application</servlet-name>
+	   <url-pattern>/rest/*</url-pattern>
+	</servlet-mapping>
+
+	4-) Create a simple java class 
+	5-) Put the necessary annotations before class name and method names.
+	6-) Access to your web service using following link ;
+			http://localhost:8080/YourProjectName/rest/YourClassName/YourMethodName/parameters
+
+
+  
