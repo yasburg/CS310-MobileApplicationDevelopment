@@ -1,0 +1,2 @@
+rootProject.name='Start activity and Result'
+include ':app'
