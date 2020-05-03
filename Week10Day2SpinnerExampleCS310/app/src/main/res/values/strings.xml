@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinnerExampleCS310</string>
+    <string-array name="cities">
+        <item>ISTANBUL</item>
+        <item>ANKARA</item>
+        <item>IZMIR</item>
+        <item>BURSA</item>
+    </string-array>
+</resources>
