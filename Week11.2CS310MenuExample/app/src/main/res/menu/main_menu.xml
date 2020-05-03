@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Help" android:icon="@android:drawable/ic_menu_help"
+        app:showAsAction="ifRoom" android:id="@+id/mn_help"/>
+
+    <item android:title="About" android:icon="@drawable/ic_local_offer_24px"
+            app:showAsAction="ifRoom" android:id="@+id/mn_about"/>
+
+    <item android:title="Contact" android:icon="@android:drawable/stat_sys_vp_phone_call"
+        app:showAsAction="ifRoom" android:id="@+id/mn_contact"/>
+
+</menu>

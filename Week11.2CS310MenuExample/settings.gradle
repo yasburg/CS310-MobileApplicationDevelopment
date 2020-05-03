@@ -1,0 +1,2 @@
+rootProject.name='CS310MenuExample'
+include ':app'
