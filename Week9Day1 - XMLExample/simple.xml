@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Root node/tag/element -->
+<orders>
+	<!-- element /Tag /Node -->
+	<!-- currency is an attribute -->
+	<order>
+		<orderdate>Apr 5, 2020</orderdate>
+		<customer>IBM</customer>
+		<product>Chipset 23445</product>
+		<price currency="USD">10</price>
+		<units>100</units>
+	</order>
+	<order>
+		<orderdate>Apr 7, 2020</orderdate>
+		<customer>ORACLE</customer>
+		<product>Wind Soft 4556</product>
+		<price currency="USD">56</price>
+		<units>1000</units>
+	</order>
+
+</orders>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/employees_schema" xmlns:tns="http://www.example.org/employees_schema" elementFormDefault="qualified">
+<!-- Simple Type -->
+<!-- <name></name> -->
+
+<!-- Complex Type -->
+<!-- 
+	<orders>
+		<order></order>
+	</orders>
+	
+	<employee id="1234"></employee>
+ -->
+
+
+    <complexType name="employeeType">
+    	<sequence>
+    		<element name="id" type="string"></element>
+    		<element name="name" type="string"></element>
+    		<element name="department" type="string"></element>
+    	</sequence>
+    </complexType>
+
+
+    <complexType name="employeesType">
+    	<sequence>
+    		<element name="employee" type="tns:employeeType" maxOccurs="unbounded" minOccurs="0"></element>
+    	</sequence>
+    </complexType>
+
+    <element name="employees" type="tns:employeesType"></element>
+</schema>

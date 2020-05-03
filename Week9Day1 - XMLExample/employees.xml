@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees xmlns="http://www.example.org/employees_schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/employees_schema employees_schema.xsd ">
+
+<employee>
+	<id>1234</id>
+	<name>Altug</name>
+	<department>IT</department>
+</employee>
+<employee>
+	<id>2345</id>
+	<name>Mehmet</name>
+	<department>SALES</department>
+</employee>
+</employees>

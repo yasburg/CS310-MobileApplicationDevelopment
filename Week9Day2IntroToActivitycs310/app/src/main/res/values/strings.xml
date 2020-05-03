@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- Usually for multi language support-->
+
+    <string name="app_name">IntroToActivitycs310</string>
+    <string name="welcome_text">Welcome to Android Apps</string>
+</resources>
