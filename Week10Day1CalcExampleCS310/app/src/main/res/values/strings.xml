@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalcExampleCS310</string>
+    <string-array name="operations">
+        <item>SUM</item>
+        <item>MULTIPLY</item>
+        <item>DIVIDE</item>
+        <item>SUBTRACT</item>
+
+    </string-array>
+</resources>
