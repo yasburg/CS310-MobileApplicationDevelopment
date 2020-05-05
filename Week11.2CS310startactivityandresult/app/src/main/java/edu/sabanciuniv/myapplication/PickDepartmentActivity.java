@@ -26,11 +26,11 @@ public class PickDepartmentActivity extends AppCompatActivity {
 
     public void selectClicked(View v){
 
-
         Department selectedDepartment = (Department) spDepartment.getSelectedItem();
         Intent i = new Intent(this, RegistrationActivity.class);
         i.putExtra("dept",selectedDepartment);
         setResult(RESULT_OK,i);
         finish();
+
     }
 }

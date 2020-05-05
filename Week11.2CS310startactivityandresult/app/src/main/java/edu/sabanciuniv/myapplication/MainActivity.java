@@ -31,6 +31,5 @@ public class MainActivity extends AppCompatActivity {
         i.putExtra("client",client);
         startActivity(i);
 
-
     }
 }

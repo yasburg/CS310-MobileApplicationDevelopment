@@ -31,11 +31,9 @@ public class RegistrationActivity extends AppCompatActivity {
 
     public void pickDepartment(View v){
 
-
         Intent i = new Intent(this,PickDepartmentActivity.class);
 
         startActivityForResult(i,SELECT_DEPARTMENT);
-
 
     }
 
@@ -49,13 +47,9 @@ public class RegistrationActivity extends AppCompatActivity {
                 selectedDept =  (Department) data.getSerializableExtra("dept");
                 txtDept.setText(selectedDept.getName());
 
-
-
             }
 
-
         }
-
 
     }
 
@@ -66,7 +60,6 @@ public class RegistrationActivity extends AppCompatActivity {
         Intent i = new Intent(this, ResultActivity.class);
         i.putExtra("client",client);
         startActivity(i);
-
 
     }
 }

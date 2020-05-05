@@ -20,7 +20,6 @@ public class ResultActivity extends AppCompatActivity {
         txtResultName = findViewById(R.id.txtResultName);
         txtResultDepartment = findViewById(R.id.txtResultDepartment);
 
-
         Client client =  (Client)getIntent().getSerializableExtra("client");
         txtResultName.setText(client.getName());
         txtResultLastName.setText(client.getLastname());

@@ -41,7 +41,6 @@ public class Department implements Serializable {
 
         return name;
 
-
     }
 
     public static List<Department> getAllDepartments(){
@@ -57,8 +56,6 @@ public class Department implements Serializable {
         depts.add(dept2);
         depts.add(dept3);
         depts.add(dept4);
-
-
 
         return depts;
     }
