@@ -1,0 +1,4 @@
+#Sun May 03 23:29:00 EET 2020
+base.0=C\:\\Users\\yasin\\Desktop\\CS 310\\WeeklyCodes\\Week11.3CS310TasksAndBackStack\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
